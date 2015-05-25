@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8022D7A-7D5C-475C-86EE-B6D16FDF63A7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9EF98742292BA473A60E49A51AEB169B79F5B637</key>
+		<string>ssh://github.com/nashera/Acm.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>xcode/p1000/p1000.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9EF98742292BA473A60E49A51AEB169B79F5B637</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/nashera/Acm.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9EF98742292BA473A60E49A51AEB169B79F5B637</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9EF98742292BA473A60E49A51AEB169B79F5B637</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Acm</string>
+		</dict>
+	</array>
+</dict>
+</plist>
