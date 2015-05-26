@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>E8022D7A-7D5C-475C-86EE-B6D16FDF63A7</string>
+	<string>0EA50392-A00A-41E0-B80C-FE7E8D6C4704</string>
 	<key>IDESourceControlProjectName</key>
-	<string>p1000</string>
+	<string>p1000-s1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>9EF98742292BA473A60E49A51AEB169B79F5B637</key>
 		<string>ssh://github.com/nashera/Acm.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>xcode/p1000/p1000.xcodeproj</string>
+	<string>xcode/p1000-s1/p1000-s1.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>9EF98742292BA473A60E49A51AEB169B79F5B637</key>
