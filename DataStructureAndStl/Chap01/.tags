@@ -1,0 +1,56 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Date	.\Eg1.1.1.cpp	/^    Date(int mouth, int day, int year): mouth(mouth), day(day), year(year){};$/;"	f	class:Date
+Date	.\Eg1.1.1.cpp	/^class Date$/;"	c	file:
+Date	.\Eg1.1.2.cpp	/^    Date(){};$/;"	f	class:Date
+Date	.\Eg1.1.2.cpp	/^    Date(int mouth, int day, int year): mouth(mouth), day(day), year(year){$/;"	f	class:Date
+Date	.\Eg1.1.2.cpp	/^class Date {$/;"	c	file:
+Date	.\Eg1.1.3.cpp	/^    Date(){};$/;"	f	class:Date
+Date	.\Eg1.1.3.cpp	/^    Date(int mouth, int day, int year): mouth(mouth), day(day), year(year){$/;"	f	class:Date
+Date	.\Eg1.1.3.cpp	/^class Date {$/;"	c	file:
+EMPLOYEE	.\Eg1.1.5.cpp	2;"	d	file:
+EMPTY_STRING	.\Eg1.1.5.cpp	/^    const static string EMPTY_STRING;$/;"	m	class:Employee	file:
+EMPTY_STRING	.\Eg1.1.6.cpp	/^const string Employee::EMPTY_STRING = "";$/;"	m	class:Employee	file:
+Employee	.\Eg1.1.5.cpp	/^    Employee(string name, double grossPay): name(name), grossPay(grossPay){};$/;"	f	class:Employee
+Employee	.\Eg1.1.5.cpp	/^class Employee$/;"	c	file:
+Employee	.\Eg1.1.6.cpp	/^Employee::Employee(){$/;"	f	class:Employee
+GROSS_PAY_SENTINEL	.\Eg1.1.5.cpp	/^    const static double GROSS_PAY_SENTINEL;$/;"	m	class:Employee	file:
+GROSS_PAY_SENTINEL	.\Eg1.1.6.cpp	/^const double Employee::GROSS_PAY_SENTINEL = -1.0;$/;"	m	class:Employee	file:
+NAME_SENTINEL	.\Eg1.1.5.cpp	/^    const static string NAME_SENTINEL;$/;"	m	class:Employee	file:
+NAME_SENTINEL	.\Eg1.1.6.cpp	/^const string Employee::NAME_SENTINEL = "";$/;"	m	class:Employee	file:
+day	.\Eg1.1.1.cpp	/^    int day;$/;"	m	class:Date	file:
+day	.\Eg1.1.2.cpp	/^    int day;$/;"	m	class:Date	file:
+day	.\Eg1.1.3.cpp	/^    int day;$/;"	m	class:Date	file:
+getCopyOf	.\Eg1.1.6.cpp	/^void Employee::getCopyOf (const Employee &otherEmployee){$/;"	f	class:Employee
+grossPay	.\Eg1.1.5.cpp	/^    double grossPay;$/;"	m	class:Employee	file:
+isSentinel	.\Eg1.1.6.cpp	/^bool Employee::isSentinel() const{$/;"	f	class:Employee
+isValid	.\Eg1.1.1.cpp	/^    bool isValid(){$/;"	f	class:Date
+main	.\Eg1.1.1.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	.\Eg1.1.2.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	.\Eg1.1.3.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	.\Eg1.1.4.cpp	/^int main(int argc, char const *argv[])$/;"	f
+main	.\Eg1.1.6.cpp	/^int main(int argc, char const *argv[])$/;"	f
+makesMoreThan	.\Eg1.1.6.cpp	/^bool Employee::makesMoreThan(const Employee &otherEmployee) const {$/;"	f	class:Employee
+mouth	.\Eg1.1.1.cpp	/^    int mouth;$/;"	m	class:Date	file:
+mouth	.\Eg1.1.2.cpp	/^    int mouth;$/;"	m	class:Date	file:
+mouth	.\Eg1.1.3.cpp	/^    int mouth;$/;"	m	class:Date	file:
+name	.\Eg1.1.5.cpp	/^    string name;$/;"	m	class:Employee	file:
+next	.\Eg1.1.2.cpp	/^    Date &next(){$/;"	f	class:Date
+next	.\Eg1.1.3.cpp	/^    Date next(){$/;"	f	class:Date
+operator <<	.\Eg1.1.2.cpp	/^   ostream& operator<<(ostream &outstream, const Date &date){$/;"	f
+operator <<	.\Eg1.1.3.cpp	/^   ostream& operator<<(ostream &outstream, const Date &date){$/;"	f
+operator <<	.\Eg1.1.6.cpp	/^ostream &operator <<(ostream &outstream, const Employee &otherEmployee){$/;"	f
+printOut	.\Eg1.1.6.cpp	/^void Employee::printOut() const{$/;"	f	class:Employee
+readInfo	.\Eg1.1.6.cpp	/^void Employee::readInfo(){$/;"	f	class:Employee
+sum	.\Eg1.1.4.cpp	/^int sum(int a, int b){$/;"	f
+year	.\Eg1.1.1.cpp	/^    int year;$/;"	m	class:Date	file:
+year	.\Eg1.1.2.cpp	/^    int year;$/;"	m	class:Date	file:
+year	.\Eg1.1.3.cpp	/^    int year;$/;"	m	class:Date	file:
+~Date	.\Eg1.1.1.cpp	/^    ~Date(){ };$/;"	f	class:Date
+~Date	.\Eg1.1.2.cpp	/^    ~Date(){$/;"	f	class:Date
+~Date	.\Eg1.1.3.cpp	/^    ~Date(){$/;"	f	class:Date
+~Employee	.\Eg1.1.5.cpp	/^    ~Employee(){};$/;"	f	class:Employee

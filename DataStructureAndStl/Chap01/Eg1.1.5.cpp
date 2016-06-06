@@ -17,7 +17,7 @@ public:
     bool makesMoreThan (const Employee &otherEmployee) const;
     friend ostream &operator <<(ostream &outstream, const Employee &otherEmployee);
     ~Employee(){};
-private:
+protected:
     string name;
     double grossPay;
     const static string EMPTY_STRING;
