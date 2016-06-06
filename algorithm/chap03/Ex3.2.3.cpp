@@ -16,4 +16,5 @@ public:
     Type &operator [] (int i);
     int length () const { return ArraySize; }
     void ReSize (int sz);
+    
 };
